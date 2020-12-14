@@ -1,2 +1,5 @@
 # Hello_World
-Hello World project. 
+
+Hello,
+
+Mitch here, just starting out codeing with c++ and some python. 
